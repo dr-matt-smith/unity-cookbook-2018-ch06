@@ -14,6 +14,8 @@ The completed Unity projects for each example can be found in their own repos as
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-04-saving-camera-output-as-texture
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-05-zooming-with-effects
+
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-06-minimap
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-07-cctv-surveillance
