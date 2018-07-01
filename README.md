@@ -24,3 +24,7 @@ The completed Unity projects for each example can be found in their own repos as
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-07b-cctv-post-processing
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-08-multipurpose-camera-rig
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-09-cinemachine-clearshot
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch06-10-cinemachine-freelook
